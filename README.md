@@ -18,4 +18,5 @@
 </ol>
 <hr>
 Jezik: Python
+<hr>
 Okruzenje: Visual Studio Code
