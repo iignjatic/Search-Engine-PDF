@@ -16,3 +16,6 @@
   <li>autocomplete unosom *</li>
   <li>did you mean, kada nema rezultata</li>
 </ol>
+<hr>
+Jezik: Python
+Okruzenje: Visual Studio Code
